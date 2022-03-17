@@ -1665,7 +1665,7 @@ res = await client.prepareMessageFromContent(from,{
 "priceAmount1000": "2000000",
 'salePriceAmount1000':"5000000",
 "productImageCount": 1,
-'url': `wa.me/6289530298948`
+'url': `wa.me//+6283869803330`
 },
 "businessOwnerJid": "6289530298948@s.whatsapp.net",
 "contextInfo": {
